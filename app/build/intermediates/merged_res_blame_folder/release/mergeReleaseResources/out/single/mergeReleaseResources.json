@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_unchecked.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/unchecked.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_completed.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/completed.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_border_textview.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/border_textview.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_bought.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/bought.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_arrow_down.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/arrow_down.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_urgent.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_urgent.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_bought.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_bought.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_arrow_up.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/arrow_up.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_warning_android.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/warning_android.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_home.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_recycler_item.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/recycler_item.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_important.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/important.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_display_item.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_display_item.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_buttonshape.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/buttonshape.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/menu_menu_displayitem.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/menu/menu_displayitem.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_edit.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_add_item.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_add_item.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_cart.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/cart.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_edit_icon.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/edit_icon.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_buy.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/buy.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_checked.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/checked.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/layout_activity_main.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/drawable_urgent.png.flat",
+        "source": "com.example.shoppinglist.app-main-19:/drawable/urgent.png"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/menu_bottomnavigationview.xml.flat",
+        "source": "com.example.shoppinglist.app-main-19:/menu/bottomnavigationview.xml"
+    },
+    {
+        "merged": "com.example.shoppinglist.app-release-18:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.shoppinglist.app-main-19:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

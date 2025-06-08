@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a69a2edd0b18e01c2d8a166e988e37dd\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\b3c0a328176635d25d4b5f338705d66d\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe2a263a8866d494c9d19b0d271efb1a\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6c655bb5f0cc037ce6b221d783a049d7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\28b5feb730b12aa923f5b697961c87da\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BOLO\.gradle\caches\8.8\transforms\d5cb269ea3371ca1597ca978fd408a22\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\BOLO\.gradle\caches\8.8\transforms\0e7a251501781aa4be417754fe416dcb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\4a72190913d9e09f2359d90c6ee477ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6b807ebd6f778705ee7a4a428b87d697\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\9750803d52784bcdf6df605dabcf47c0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\5625599422cb10fa8fe4851bac16bb3e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a08712aefef511bca5e315821c0ec5aa\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\b40b2e2e05ef86dac1e3a3487d3dcb42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3dad680910e84d63c2126c92696d2cd1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6dc9517ac150299cf81df5903eb62c8f\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\02a8a5e94136abaeec9944006903f714\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aeaf0d3b90d3413f2d43921d90190c45\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aacec73476b31bbac20e0bd824fae110\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a0754c1516b07af7e236e52e3a034428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\d7e48112d61e18baa44490829d627b2e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\1478a2268610fbdf80fffaabf539f863\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\60e6d7c4e0c98a828ee4cbb7be33579a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\5b216a8ba5814a84eecad00eb8a984fb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\75b02aa536b400ba1b17d02da1a781d2\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\37caed49511e882e43e2bfec729336d3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\0f028f9306a470ea0c6b4a4ccb87b15f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\26f023f7254bcaa3167136658d388570\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\73de276f200f131dcc4bbba2fe8228d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\227a21bc28f019d7011131fffcdfc934\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\eb34365949ef9b32557b6f9b602d0735\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe1274220ec13199640d21cedffb6d4a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\dbc456678ea1fa80f902ae7ee80419a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\c742e5c659422351f3ccec5543382d48\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3c1a6e033308385c40f09e5cb00e2a99\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:5:5-41:19
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:5:5-41:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a69a2edd0b18e01c2d8a166e988e37dd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a69a2edd0b18e01c2d8a166e988e37dd\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\b3c0a328176635d25d4b5f338705d66d\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\b3c0a328176635d25d4b5f338705d66d\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\37caed49511e882e43e2bfec729336d3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\37caed49511e882e43e2bfec729336d3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:11:9-50
+activity#com.example.shoppinglist.EditActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:12:9-14:39
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.shoppinglist.AddItemActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:15:9-18:47
+	android:launchMode
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:18:13-44
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:16:13-44
+activity#com.example.shoppinglist.BoughtActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:19:9-22:47
+	android:launchMode
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:22:13-44
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:20:13-43
+activity#com.example.shoppinglist.UrgentActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:23:9-26:47
+	android:launchMode
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:26:13-44
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:24:13-43
+activity#com.example.shoppinglist.DisplayItemActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:27:9-30:47
+	android:launchMode
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:30:13-44
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:28:13-48
+activity#com.example.shoppinglist.MainActivity
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:31:9-40:20
+	android:launchMode
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:34:13-44
+	android:exported
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a69a2edd0b18e01c2d8a166e988e37dd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a69a2edd0b18e01c2d8a166e988e37dd\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\b3c0a328176635d25d4b5f338705d66d\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\b3c0a328176635d25d4b5f338705d66d\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe2a263a8866d494c9d19b0d271efb1a\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe2a263a8866d494c9d19b0d271efb1a\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6c655bb5f0cc037ce6b221d783a049d7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6c655bb5f0cc037ce6b221d783a049d7\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\28b5feb730b12aa923f5b697961c87da\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\28b5feb730b12aa923f5b697961c87da\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BOLO\.gradle\caches\8.8\transforms\d5cb269ea3371ca1597ca978fd408a22\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\BOLO\.gradle\caches\8.8\transforms\d5cb269ea3371ca1597ca978fd408a22\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\BOLO\.gradle\caches\8.8\transforms\0e7a251501781aa4be417754fe416dcb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\BOLO\.gradle\caches\8.8\transforms\0e7a251501781aa4be417754fe416dcb\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\4a72190913d9e09f2359d90c6ee477ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\4a72190913d9e09f2359d90c6ee477ef\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6b807ebd6f778705ee7a4a428b87d697\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6b807ebd6f778705ee7a4a428b87d697\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\9750803d52784bcdf6df605dabcf47c0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\9750803d52784bcdf6df605dabcf47c0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\5625599422cb10fa8fe4851bac16bb3e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\5625599422cb10fa8fe4851bac16bb3e\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a08712aefef511bca5e315821c0ec5aa\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a08712aefef511bca5e315821c0ec5aa\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\b40b2e2e05ef86dac1e3a3487d3dcb42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\b40b2e2e05ef86dac1e3a3487d3dcb42\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3dad680910e84d63c2126c92696d2cd1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3dad680910e84d63c2126c92696d2cd1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6dc9517ac150299cf81df5903eb62c8f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\6dc9517ac150299cf81df5903eb62c8f\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\02a8a5e94136abaeec9944006903f714\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\02a8a5e94136abaeec9944006903f714\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aeaf0d3b90d3413f2d43921d90190c45\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aeaf0d3b90d3413f2d43921d90190c45\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aacec73476b31bbac20e0bd824fae110\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\aacec73476b31bbac20e0bd824fae110\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\8f43c1a18814f2e631e5e182a478400b\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a0754c1516b07af7e236e52e3a034428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\a0754c1516b07af7e236e52e3a034428\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\d7e48112d61e18baa44490829d627b2e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\d7e48112d61e18baa44490829d627b2e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\1478a2268610fbdf80fffaabf539f863\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\1478a2268610fbdf80fffaabf539f863\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\60e6d7c4e0c98a828ee4cbb7be33579a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\60e6d7c4e0c98a828ee4cbb7be33579a\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\5b216a8ba5814a84eecad00eb8a984fb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\5b216a8ba5814a84eecad00eb8a984fb\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\75b02aa536b400ba1b17d02da1a781d2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\75b02aa536b400ba1b17d02da1a781d2\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\37caed49511e882e43e2bfec729336d3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\37caed49511e882e43e2bfec729336d3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\0f028f9306a470ea0c6b4a4ccb87b15f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\0f028f9306a470ea0c6b4a4ccb87b15f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\26f023f7254bcaa3167136658d388570\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\26f023f7254bcaa3167136658d388570\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\73de276f200f131dcc4bbba2fe8228d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\BOLO\.gradle\caches\8.8\transforms\73de276f200f131dcc4bbba2fe8228d8\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\227a21bc28f019d7011131fffcdfc934\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\227a21bc28f019d7011131fffcdfc934\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\eb34365949ef9b32557b6f9b602d0735\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\eb34365949ef9b32557b6f9b602d0735\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe1274220ec13199640d21cedffb6d4a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\fe1274220ec13199640d21cedffb6d4a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\dbc456678ea1fa80f902ae7ee80419a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\dbc456678ea1fa80f902ae7ee80419a6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\c742e5c659422351f3ccec5543382d48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\c742e5c659422351f3ccec5543382d48\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3c1a6e033308385c40f09e5cb00e2a99\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\BOLO\.gradle\caches\8.8\transforms\3c1a6e033308385c40f09e5cb00e2a99\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BOLO\Desktop\app completed\ShoppingList-Android-main\app\src\main\AndroidManifest.xml
